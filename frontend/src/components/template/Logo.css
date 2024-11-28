@@ -1,0 +1,17 @@
+.logo{
+    background-color: var(--bg-dark);
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.logo a{
+    display: inline-block;
+    width: 100%;
+     text-align: center;
+     margin: auto;
+}
+
+.logo img{
+    width: 35%;
+}

@@ -1,0 +1,34 @@
+{
+    "User": [
+        {
+            "name": "helenilson",
+            "email": "jussara",
+            "id": 1
+        },
+        {
+            "name": "nilson",
+            "email": "jussara",
+            "id": 2
+        }
+    ],
+    "Vendedor": [
+        {
+            "name": "Vitória",
+            "lider": "CRISTIANE SOUZA",
+            "id": 4,
+            "numberFinal": "20",
+            "numberInicio": "1"
+        }
+    ],
+    "Numeros": [
+        {
+            "name": "LETICIA",
+            "lider": "CRISTIANE SOUZA",
+            "numeroInicio": "180",
+            "numerofinal": "56",
+            "numerosEscolhidos": "01",
+            "id": 1,
+            "vendedor": "Vitória"
+        }
+    ]
+}
